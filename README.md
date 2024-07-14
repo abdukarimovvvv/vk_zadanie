@@ -23,5 +23,3 @@
 - PUT /{kind}/{uuid}/state - Обновить состояние
 - DELETE /{kind}/{uuid} - Удалить документ
 - GET /{kind}/{uuid}/state - Получить состояние документа
-
-For more details, refer to the generated controller files in `rest_app/routes/`.
