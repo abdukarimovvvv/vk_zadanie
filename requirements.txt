@@ -1,0 +1,7 @@
+pydantic==1.10.0
+fastapi==0.110.0
+sqlalchemy==2.0.30
+alembic==1.13.0
+uvicorn
+jsonschema
+psycopg2-binary
